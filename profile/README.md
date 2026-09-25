@@ -39,7 +39,7 @@ We build healthcare systems and the engineering practices that make consequentia
 | --- | --- |
 | Healthcare | Broker and enrollment systems, dental administration, group and employer benefits, and HealthNext workflows. |
 | Engineering and agentic engineering | Talent, Training, Engineering, Agent Console, and execution controls. |
-| Model training and evaluation | LeanLogix and MOEModels: dataset and release evidence, measured evaluation, and model selection. |
+| Model training and evaluation | LeanLogix: dataset lineage, training and release evidence, and measured evaluation. MOEModels: sourced model discovery and deployment-fit assessment. |
 | CAaS.health | Agent Floor and Interaction Assurance for contact-center operations. |
 | Contact center | Voice workflows, supervisor experiences, retrieval, human handoff, and interaction review. |
 | AI software delivery lifecycle | [AI SDLC](https://aisdlc.ai/) field guide, Knowledge Atlas, Agent System Passport, and Project Dossier. |
