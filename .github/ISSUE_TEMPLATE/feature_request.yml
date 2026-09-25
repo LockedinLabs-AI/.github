@@ -1,0 +1,20 @@
+name: Feature proposal
+description: Explain a concrete user problem and a focused change.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and affected user
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+      description: Include compatibility and trust-boundary implications where relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: verification
+    attributes:
+      label: How success could be verified
