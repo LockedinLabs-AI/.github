@@ -1,3 +1,5 @@
+<p><img src="https://raw.githubusercontent.com/LockedinLabs-AI/.github/main/assets/lockedin-symbol.png" width="80" height="80" alt="LockedIn Labs symbol" /></p>
+
 # LockedIn Labs
 
 We build healthcare systems and the engineering practices that make consequential operations work. Our portfolio spans broker and member experiences, contact center operations, workforce readiness, governed AI, and model evaluation.
@@ -31,8 +33,27 @@ We build healthcare systems and the engineering practices that make consequentia
 | LeanLogix | Model planning and decision records | [Explore](https://leanlogix.ai/) |
 | MOEModels | Model discovery and fit assessment | [Explore](https://moemodels.ai/) |
 
-## Open source
+## Explore the portfolio
+
+| Area | Products and engineering work |
+| --- | --- |
+| Healthcare | Broker and enrollment systems, dental administration, group and employer benefits, and HealthNext workflows. |
+| Engineering and agentic engineering | Talent, Training, Engineering, Agent Console, and execution controls. |
+| Model training and evaluation | LeanLogix: dataset lineage, training and release evidence, and measured evaluation. MOEModels: sourced model discovery and deployment-fit assessment. |
+| CAaS.health | Agent Floor and Interaction Assurance for contact-center operations. |
+| Contact center | Voice workflows, supervisor experiences, retrieval, human handoff, and interaction review. |
+| AI software delivery lifecycle | [AI SDLC](https://aisdlc.ai/) field guide, Knowledge Atlas, Agent System Passport, and Project Dossier. |
+| Compliance | ControlFrame evidence, control execution, review, and verification. |
+| Security | Agent execution boundaries, scoped security assessment, and inspectable engineering evidence. |
+
+Products can support more than one area. Public demonstrations use evaluation scenarios; access to working environments and engagement-specific evidence is arranged separately.
+
+## Open source and community
 
 Our founder's public repositories include [Agent Console](https://github.com/SamSnead85/agent-console) and [MOEModels](https://github.com/SamSnead85/moemodels). We will publish LockedIn Labs repositories here as individual projects complete our code, documentation, license, security, and ownership reviews.
+
+Start with a reproducible issue, a documentation improvement, or a focused pull request. You do not need organization membership to contribute to a public repository.
+
+[Contributing](https://github.com/LockedinLabs-AI/.github/blob/main/CONTRIBUTING.md) · [Community guide](https://github.com/LockedinLabs-AI/.github/blob/main/COMMUNITY.md) · [Security reporting](https://github.com/LockedinLabs-AI/.github/blob/main/SECURITY.md) · [Support](https://github.com/LockedinLabs-AI/.github/blob/main/SUPPORT.md)
 
 For a guided product review or technical walkthrough, visit [lockedinlabs.ai](https://lockedinlabs.ai/).

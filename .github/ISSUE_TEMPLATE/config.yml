@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security concern privately
+    url: https://github.com/LockedinLabs-AI/.github/blob/main/SECURITY.md
+    about: Follow the security policy before sharing vulnerability details.
+  - name: Product reviews and partnerships
+    url: https://lockedinlabs.ai/contact/
+    about: Arrange a guided product review or commercial conversation.
