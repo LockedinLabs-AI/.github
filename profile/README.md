@@ -1,21 +1,38 @@
 # LockedIn Labs
 
-We build AI systems for consequential operations. Our work connects forward-deployed engineering, operational intelligence, model evidence, and the controls needed to review a decision after it is made.
+We build healthcare systems and the engineering practices that make consequential operations work. Our portfolio spans broker and member experiences, contact center operations, workforce readiness, governed AI, and model evaluation.
 
-## Explore the work
+## Healthcare delivery
 
-| Product | Public path |
+| Work | Explore |
 | --- | --- |
-| **VANTAGE AI Ops** — operations intelligence and governed response | [Open the synthetic read-only demo](https://aiops.lockedinlabs.ai/) |
-| **ControlFrame** — control evidence and assurance workflows | [Inspect a scripted reference run](https://controlframe.ai/demo/live-run) |
-| **LeanLogix** — model-routing and release-control evidence | [Generate an illustrative planning receipt](https://leanlogix.ai/select) |
-| **MOEModels** — sourced model data and deployment planning | [Explore the model index](https://moemodels.ai/) |
+| **GuidePoint Health** — connected broker, dental, group, and employer demonstration experiences. | [Explore the estate](https://guidepoint.health/) |
+| **HealthNext** — a healthcare experience and operating model. | [See HealthNext](https://healthnext.ai/) |
+| **CAaS.health** — contact center interaction assurance and an agent operations environment. | [See CAaS.health](https://caas.health/) |
+
+## One engineering journey
+
+**Source → Verify → Assess → Train → Certify → Deploy → Measure**
+
+| Product | Role | Explore |
+| --- | --- | --- |
+| LockedIn Labs Talent | Candidate onboarding and assessment | [Talent](https://talent.lockedinlabs.ai/) |
+| LockedIn Labs Training | Role readiness and certification | [Training](https://training.lockedinlabs.ai/) |
+| LockedIn Labs Engineering | Forward-deployed, agentic engineering | [Engineering](https://engineering.lockedinlabs.ai/) |
+
+[LockedIn Labs Command Center](https://app.lockedinlabs.ai/) brings the operating view together. Access to working environments is arranged for reviewers.
+
+## Governed AI and model systems
+
+| System | Focus | Explore |
+| --- | --- | --- |
+| AI Operations | Operational visibility and supervised workflows | [Demonstration](https://aiops.lockedinlabs.ai/) |
+| ControlFrame | Recorded control execution and evidence | [Live-run demonstration](https://controlframe.ai/demo/live-run) |
+| LeanLogix | Model planning and decision records | [Explore](https://leanlogix.ai/) |
+| MOEModels | Model discovery and fit assessment | [Explore](https://moemodels.ai/) |
 
 ## Open source
 
-- [Agent Console](https://github.com/SamSnead85/agent-console): local observability for AI coding agents, with a synthetic demo mode and documented privacy boundary.
-- [MOEModels](https://github.com/SamSnead85/moemodels): tools to plan, measure, and verify model deployment evidence. Its public repository remains on our founder's account while we establish this organization.
+Our founder's public repositories include [Agent Console](https://github.com/SamSnead85/agent-console) and [MOEModels](https://github.com/SamSnead85/moemodels). We will publish LockedIn Labs repositories here as individual projects complete our code, documentation, license, security, and ownership reviews.
 
-We publish a project's source when its license, provenance, security boundary, tests, and contribution path are ready for outside engineers. Product demonstrations use synthetic data unless explicitly stated otherwise.
-
-[Website](https://lockedinlabs.ai/) · [Products](https://lockedinlabs.ai/what-we-do/) · [Contact](https://lockedinlabs.ai/contact/)
+For a guided product review or technical walkthrough, visit [lockedinlabs.ai](https://lockedinlabs.ai/).
