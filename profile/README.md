@@ -62,7 +62,7 @@ Products can support more than one area. Public demonstrations use evaluation sc
 
 ## Contribute and follow
 
-Our public work also includes [MOEModels](https://github.com/SamSnead85/moemodels), a model discovery and deployment-fit project. Follow each repository for its actual releases and current scope.
+Our public work also includes [MOEModels](https://github.com/LockedinLabs-AI/moemodels), a model discovery and deployment-fit project. Follow each repository for its actual releases and current scope.
 
 Start with a reproducible issue, a documentation improvement, or a focused pull request. You do not need organization membership to contribute to a public repository. If a project is useful to you, star its repository to help others discover it, or watch releases to follow updates.
 
