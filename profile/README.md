@@ -10,7 +10,7 @@ Start with the source, architecture, and verification guidance for our public pr
 
 | Project | What it does | Explore |
 | --- | --- | --- |
-| **Agent Console** | Local-first observability for Claude Code and Codex: sessions, agents, token usage, cache activity, and estimated costs. | [Source and setup](https://github.com/LockedinLabs-AI/agent-console) · [Architecture](https://github.com/LockedinLabs-AI/agent-console/blob/main/docs/ARCHITECTURE.md) · [Published downloads](https://github.com/SamSnead85/agent-console/releases/latest) |
+| **Agent Console** | Local-first observability for Claude Code and Codex: sessions, agents, token usage, cache activity, and estimated costs. | [Source and setup](https://github.com/LockedinLabs-AI/agent-console) · [Architecture](https://github.com/LockedinLabs-AI/agent-console/blob/main/docs/ARCHITECTURE.md) · [Published downloads](https://github.com/LockedinLabs-AI/agent-console/releases/latest) |
 | **LockedIn Flow** | On-device dictation for managed Macs, with documented processing, storage, and insertion boundaries. | [Source and setup](https://github.com/LockedinLabs-AI/LockedIn-Flow) · [Architecture](https://github.com/LockedinLabs-AI/LockedIn-Flow/blob/main/docs/architecture.md) · [Validation and release status](https://github.com/LockedinLabs-AI/LockedIn-Flow/blob/main/docs/validation.md) |
 
 Each project documents its own installation options, license, security boundary, and release status. Source changes and published downloads can be at different versions; use the project's release notes and verification instructions for the artifact you install.
